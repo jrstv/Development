@@ -1,2 +1,3 @@
-# Management
-JRs’TV Project management repo.
+# JRs’TV Management
+
+see Wiki.
