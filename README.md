@@ -1,3 +1,3 @@
-# JRs’TV Project Development repo
+# JRs’TV Development repo
 
 see Wiki.
