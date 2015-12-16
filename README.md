@@ -1,3 +1,3 @@
-# JRs’TV Management
+# JRs’TV Project Development repo
 
 see Wiki.
